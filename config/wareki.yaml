@@ -1,0 +1,16 @@
+-
+  caption: 平成
+  start: '1989-01-08'
+  end:
+-
+  caption: 昭和
+  start: '1926-12-25'
+  end: '1989-01-07'
+-
+  caption: 大正
+  start: '1912-07-30'
+  end: '1926-12-24'
+-
+  caption: 明治
+  start: '1864-01-25'
+  end: '1912-07-29'
